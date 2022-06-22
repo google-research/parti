@@ -36,7 +36,7 @@ We observed the following results:
     our analysis on Localized Narratives and PartiPrompts, our new holistic
     benchmark of 1600+ English prompts that we release as part of this work.
 
-![parti-overview](https://raw.githubusercontent.com/google-research/parti/main/images/parti_overview.jpeg)
+![parti-overview](images/parti_overview.jpeg)
 
 ## PartiPrompts benchmark
 
@@ -44,7 +44,7 @@ PartiPrompts benchmark PartiPrompts (P2) is a rich set of over 1600 prompts in
 English that we release as part of this work. P2 can be used to measure model
 capabilities across various categories and challenge aspects.
 
-![parti-prompts](https://raw.githubusercontent.com/google-research/parti/main/images/parti-propmts.png)
+![parti-prompts](images/parti-prompts.png)
 
 P2 prompts can be simple, allowing us to gauge the progress from scaling. They
 can also be complex, such as the following 67-word description we created for
