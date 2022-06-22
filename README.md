@@ -1,8 +1,8 @@
 # Parti
 
-## Introduction
-
 <a href="https://parti.research.google" target="_blank">![website](https://img.shields.io/badge/website-blue)</a>
+
+## Introduction
 
 We introduce the Pathways Autoregressive Text-to-Image model (Parti), an
 autoregressive text-to-image generation model that achieves high-fidelity
@@ -40,15 +40,15 @@ We observed the following results:
 
 ## PartiPrompts benchmark
 
-PartiPrompts benchmark PartiPrompts (P2) is a rich set of over 1600 prompts in
-English that we release as part of this work. P2 can be used to measure model
-capabilities across various categories and challenge aspects.
+PartiPrompts (P2) is a rich set of over 1600 prompts in English that we release
+as part of this work. P2 can be used to measure model capabilities across
+various categories and challenge aspects.
 
 ![parti-prompts](images/parti-prompts.png)
 
 P2 prompts can be simple, allowing us to gauge the progress from scaling. They
 can also be complex, such as the following 67-word description we created for
-Vincent van Gogh’s The Starry Night (1889):
+Vincent van Gogh’s *The Starry Night* (1889):
 
 *Oil-on-canvas painting of a blue night sky with roiling energy. A fuzzy and
 bright yellow crescent moon shining at the top. Below the exploding yellow stars
