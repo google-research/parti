@@ -64,7 +64,7 @@ Parti is a collaboration that spans authors across multiple
 Jiahui Yu<sup>\*</sup>, Yuanzhong Xu<sup>†</sup>, Jing Yu Koh<sup>†</sup>, Thang
 Luong<sup>†</sup>, Gunjan Baid<sup>†</sup>, Zirui Wang<sup>†</sup>, Vijay
 Vasudevan<sup>†</sup>, Alexander Ku<sup>†</sup>, Yinfei Yang, Burcu Karagol
-Ayan, Ben Hutchinson, Wei Han, Zarana Parekh, Xin Li, Han Zhang Jason
+Ayan, Ben Hutchinson, Wei Han, Zarana Parekh, Xin Li, Han Zhang, Jason
 Baldridge<sup>†</sup>, Yonghui Wu<sup>\*</sup>
 
 <sup>*</sup>Equal contribution <sup>†</sup>Core contribution
@@ -74,10 +74,10 @@ Krishna Bharat, Nicole Brichtova, Yuan Cao, William Chan, Zhifeng Chen, Eli
 Collins, Claire Cui, Andrew Dai, Jeff Dean, Emily Denton, Toju Duke, Dumitru
 Erhan, Brian Gabriel, Zoubin Ghahramani, Jonathan Ho, Michael Jones, Sarah
 Laszlo, Quoc Le, Lala Li, Zhen Li, Sara Mahdavi, Kathy Meier-Hellstern, Kevin
-Murphy, Paul Natsev, Paul Nicholas, Mohammad Norouzi, Niki Parmar, Ruoming Pang,
+Murphy, Paul Natsev, Paul Nicholas, Mohammad Norouzi, Ruoming Pang, Niki Parmar,
 Fernando Pereira, Slav Petrov, Vinodkumar Prabhakaran, Utsav Prabhu, Evan
 Rapoport, Keran Rong, Negar Rostamzadeh, Chitwan Saharia, Gia Soles, Austin
-Tarango, Ashish Vaswani, Tao Wang, Tris Warkentin, Austin Waters, Ben
+Tarango, Ashish Vaswani, Tao Wang, Tris Warkentin, Austin Waters and Ben
 Zevenbergen for helpful discussions and guidance, Peter Anderson, Corinna
 Cortes, Tom Duerig, Douglas Eck, David Ha, Radu Soricut and Rahul Sukthankar for
 paper review and feedback, Erica Moreira and Victor Gomes for help with resource
